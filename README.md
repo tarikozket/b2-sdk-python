@@ -17,6 +17,10 @@ this:
 
     pip install --ignore-installed b2sdk
 
+# Documentation
+
+The documentation can be accessed at https://b2-sdk-python.readthedocs.io/en/master/.
+
 # Version policy
 
 b2sdk follows [Semantic Versioning](https://semver.org/) policy, so in essence the version number is MAJOR.MINOR.PATCH (for example 1.2.3) and:
